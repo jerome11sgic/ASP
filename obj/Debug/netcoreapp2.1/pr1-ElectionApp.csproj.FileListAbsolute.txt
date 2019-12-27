@@ -1,0 +1,14 @@
+E:\12-ASP\pr1-ElectionApp\bin\Debug\netcoreapp2.1\pr1-ElectionApp.deps.json
+E:\12-ASP\pr1-ElectionApp\bin\Debug\netcoreapp2.1\pr1-ElectionApp.runtimeconfig.json
+E:\12-ASP\pr1-ElectionApp\bin\Debug\netcoreapp2.1\pr1-ElectionApp.runtimeconfig.dev.json
+E:\12-ASP\pr1-ElectionApp\bin\Debug\netcoreapp2.1\pr1-ElectionApp.dll
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.csprojAssemblyReference.cache
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.csproj.CoreCompileInputs.cache
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.RazorAssemblyInfo.cache
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.RazorAssemblyInfo.cs
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.AssemblyInfoInputs.cache
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.AssemblyInfo.cs
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.RazorTargetAssemblyInfo.cache
+E:\12-ASP\pr1-ElectionApp\bin\Debug\netcoreapp2.1\pr1-ElectionApp.pdb
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.dll
+E:\12-ASP\pr1-ElectionApp\obj\Debug\netcoreapp2.1\pr1-ElectionApp.pdb
